@@ -1,19 +1,18 @@
 sudo: false
 language: node_js
 node_js:
-  - 12 # use nodejs v10 LTS
+  - 12
 cache: npm
 branches:
   only:
-    - development # build development branch only
+    - master # build master branch only
 script:
-  - hexo generate # generate static files
+  - hexo generate
 deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GH_TOKEN
   keep-history: true
-  target-branch: master #部署到master分支
   on:
-    branch: development
+    branch: master
   local-dir: public
