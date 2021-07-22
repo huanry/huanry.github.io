@@ -105,5 +105,6 @@ theme: nexmoe
 
 deploy:
   type: git
-#  repo: https://github.com/huanry/huanry.github.io
+  repo: https://github.com/huanry/huanry.github.io
   branch: gh-pages
+  token: $GH_TOKEN
