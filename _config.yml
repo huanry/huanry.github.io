@@ -106,4 +106,4 @@ theme: nexmoe
 deploy:
   type: git
   repo: https://github.com/huanry/huanry.github.io
-  branch: site
+  branch: gh-pages
