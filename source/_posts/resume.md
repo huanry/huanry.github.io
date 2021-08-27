@@ -10,6 +10,8 @@ I'm Huanry from Taiwan, worked with fintech & social media startups in the past 
 
 <!--more-->
 
+**Experience in different areas**
+
 - Blockchain
 	I start to involve in the blockchain communities in 2016, including organizing blockchain meetups and events, publishing blockchain weekly events list in Shanghai, participating in blockchain hackathons. Especially we got 1st prize for Decent and 3rd prize in Wanxiang Blockchain Hackathon 2018.
 - Offline Community managment
