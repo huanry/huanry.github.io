@@ -3,17 +3,16 @@ title: My Schedule
 date: 2021-08-28 01:10:43
 ---
 
-
-- **09月02日**
-	- 19:00-19:20 [創變者培力營-面談](https://www.accupass.com/event/2107210646242674764250)
 - **09月03日**
 	- 18:30-20:30 [How LINE works with startups in Taipei](https://www.accupass.com/event/2108170708553480918790)
-	- 19:00-21:30 [「社會協力治理」－共伴計畫　跨域影響力系列論壇](https://www.accupass.com/event/2108260831191269501250)
 - **09月04日**
 	- 10:00-17:00 [108課綱與人權教育｜海光人權講堂-人權推廣實務工作坊](https://www.accupass.com/event/2108180516527047679720)
-	- 13:00-17:30 [永續發展教育研討會](https://www.accupass.com/event/2107190237389844689700)
+- **09月08日**
+	- 19:10 - 20:50 [循環經濟系列沙龍#046 | 通膨世代 使用取代擁有！共享，更貼近需求也更愛惜地球 !](https://www.accupass.com/event/2108310852054079842790)
 - **09月11日**
 	- 19:30-21:00 [你的身體就是你的ID](https://www.accupass.com/event/2108060236141117286811)
+- **09月12日**
+	- 8:40~17:00 [ LINE Chatbot 對話機器人工作坊](https://signupactivity.ntub.edu.tw/activity/activityDetail/10108)
 - **09月16日**
 	- 09:00-17:00 [綠色成長與新能源的國際趨勢研討會](https://www.accupass.com/ticket/getticket/2108171232531069488200)
 - **09月17日**
