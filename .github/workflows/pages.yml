@@ -3,7 +3,7 @@ name: Pages
 on:
   push:
     branches:
-      - master  # default branch
+      - main  # default branch
 
 jobs:
   pages:
@@ -29,4 +29,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./publicgiupdastercd .githubworkflows
+          publish_dir: ./public
