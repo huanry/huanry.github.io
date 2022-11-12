@@ -103,11 +103,11 @@ theme: nexmoe
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 
-deploy:
-  type: git
-  repo: https://github.com/huanry/huanry.github.io
-  branch: gh-pages
-  token: $GH_TOKEN
+# deploy:
+#  type: git
+#  repo: https://github.com/huanry/huanry.github.io
+#  branch: gh-pages
+#  token: $GH_TOKEN
 
 # Sitemap
 sitemap:
