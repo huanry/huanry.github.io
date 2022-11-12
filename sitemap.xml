@@ -37,15 +37,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://huanry.github.io/test/</loc>
-    
-    <lastmod>2022-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://huanry.github.io/</loc>
