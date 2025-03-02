@@ -34,6 +34,10 @@ menu:
     About:
         - /resume
         - icon-info-circle
+    Portfolio:
+        - /portfolio
+        - icon-i-catalog
+
 
 widgets:
     - name: search
