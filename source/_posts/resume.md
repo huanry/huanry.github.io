@@ -6,7 +6,7 @@ tags:
 ---
 
 ## About-Me
-I'm Huanry from Taiwan, worked with fintech & social media startups in the past 6 years. My main role is to manage >the team for marketing, community build-up, business development, and product build-up.
+I'm Huanry from Taiwan, worked with fintech & social media startups in the past 6 years. My main role is to manage the team for marketing, community build-up, business development, and product build-up.
 
 <!--more-->
 
