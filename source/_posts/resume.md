@@ -12,6 +12,8 @@ I'm Huanry from Taiwan, worked with fintech & social media startups in the past 
 
 **Experience in different areas**
 
+- Regenerative & Sustainability
+
 - Blockchain
 	I start to involve in the blockchain communities in 2016, including organizing blockchain meetups and events, publishing blockchain weekly events list in Shanghai, participating in blockchain hackathons. Especially we got 1st prize for Decent and 3rd prize in Wanxiang Blockchain Hackathon 2018.
 - Offline Community managment
@@ -37,8 +39,12 @@ I'm Huanry from Taiwan, worked with fintech & social media startups in the past 
 
 ## Experience
 ### Company-Experience
+
+
+- **2021, April - Present | Community Collaboration Motivator/Economic Collaboration Designer/Principal, 115B Lab | Taipei, Taiwan**
+	Community Specialist in Regenerative & Sustainability area.
 - **2020, November - Present | Operations Specialist, Magnific Intelligence Collective, LLC. | Taipei, Taiwan**
-	Marketing Specialist to organize offline events in FinTech area.
+	Marketing Specialist to organize offline events in FinTech & US Stock Market area.
 - **2016 - 2020 | Cofounder/General Manager | MeetUGo/Shanghai Huang Yin Information Technology Co., Ltd. | Shanghai, Maniland China**
 	I found MeetUGo platform as a social calendar in 2016 and set up the company in 2018.
 	My play different role including manage the team for community build-up, business development, and product build-up, social media management, SEO management.
