@@ -25,6 +25,8 @@ tags:
 - **榮譽**：2024年獲選入駐經濟部中小及新創企業署-社會創新實驗中心-第8屆
 - **影片**：[Youtube](https://www.youtube.com/watch?v=F613YyRHcfA)  
 - **介紹**：[社創組織資料庫](https://si.taiwan.gov.tw/Home/Org?Fid=3278)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F613YyRHcfA?si=6BxKlntUbYelhU-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### MeetUGo
 - **時間**：2016年-2020年
@@ -38,9 +40,12 @@ tags:
   
 ---
 ## 活動
-
----
-## 社群營運
+### 115B實驗室（永續所得實驗室）活動
+- **時間**：2021年-至今
+- **角色**：組織者、主持人、講者
+- **連結**：[活動頁面](https://www.accupass.com/organizer/detail/2108230657121565256197)
+- **連結**：[部分活動紀錄](https://sustainable-income-lab.github.io/categories/%E5%85%AC%E6%B0%91%E8%AD%B0%E9%A1%8C%E5%A4%A7%E5%AE%B6%E4%BE%86%E8%A8%8E%E8%AB%96/)
+- **照片**：[Google Drive](https://drive.google.com/drive/u/0/folders/1TDZ7M2r7cjZqUh-f2a79kNEFe7rgkDql)
 
 ---
 ## 藝術  
