@@ -43,7 +43,7 @@ tags:
 - **角色**：組織者、主持人、講者
 - **連結**：[活動頁面](https://www.accupass.com/organizer/detail/2108230657121565256197)
 - **連結**：[部分活動紀錄](https://sustainable-income-lab.github.io/categories/%E5%85%AC%E6%B0%91%E8%AD%B0%E9%A1%8C%E5%A4%A7%E5%AE%B6%E4%BE%86%E8%A8%8E%E8%AB%96/)
-- **照片**：[Google Drive](https://drive.google.com/drive/u/0/folders/1TDZ7M2r7cjZqUh-f2a79kNEFe7rgkDql)
+- **照片**：[部分活動照片 Google Drive](https://drive.google.com/drive/u/0/folders/1TDZ7M2r7cjZqUh-f2a79kNEFe7rgkDql)
 
 ---
 ## 藝術  
@@ -52,12 +52,21 @@ tags:
 - **角色**：參展藝術家、演出  
 - **展覽**：《我的臉是公共財》  
 - **連結**：[Instagram](https://www.instagram.com/p/DB1DtClPJn7/?utm_source=ig_web_copy_link)
-
+- **影片**：
+  - [1](https://m.youtube.com/watch?v=zS3AXFkVB-s)
+  - [2](https://youtu.be/KGdCZzMmF5I)
+  - [3](https://youtu.be/DltW2uJpmzs)
+  - [4](https://youtu.be/37omV72u3AY)
+  - [5](https://youtu.be/rSD0SWRHrTU)
+  - [6](https://youtu.be/7-I52QOYc2w)
+  - [7](https://youtu.be/gGgRsS51D-s)
+  - [8](https://youtu.be/R5PzCnEAoAw?si=ZUJtkvj9r39iV3uI)
 
 ### 作品：王墨林 x 虎斑貓文化工作室《黑色》
 - **時間**：2024年
 - **角色**：報告者、演出  
-- **連結**：[活動頁面](https://anncr.co/Event/EUAIAU68500)  
+- **連結**：[活動頁面](https://anncr.co/Event/EUAIAU68500)
+- **剪影**：[Youtube/請勿外流](https://youtu.be/O6IXXv_fzUg)
 - **榮譽**：牯嶺街小劇場年度優選獎、第23屆台新藝術獎第一季提名
 
 ### 作品：《群眾參與》
