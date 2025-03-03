@@ -27,8 +27,8 @@ tags:
 ### MeetUGo
 - **時間**：2016年-2020年
 - **角色**：創始人/總經理
-- **網站及APP**[網路時光機](https://web.archive.org/web/20191209180642/http://meetugo.com/)
-- **部分活動**[活動行](https://meetugo.huodongxing.com/)
+- **網站及APP**：[網路時光機](https://web.archive.org/web/20191209180642/http://meetugo.com/)
+- **部分活動**：[活動行](https://meetugo.huodongxing.com/)
 - **公司狀態（上海黃尹信息技術有限公司）**[企查查](https://www.qcc.com/creport/526caff2a7166bd3e43403a0e4faba75.html)
   
 ---
