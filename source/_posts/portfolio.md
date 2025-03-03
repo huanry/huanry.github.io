@@ -6,7 +6,8 @@ tags:
 ---
 
 # Portfolio 作品集
-
+> 簡介
+>
 <!--more-->
 
 ## 管理  
@@ -18,9 +19,10 @@ tags:
   - [Telegram](https://t.me/tg_021up)
   - [LINE](https://line.me/ti/g2/S5PYOQxUIuSWbQOsrpcTeCOCeEIQ9xK_5bybPg)
 
-### 115B實驗室
+### 115B實驗室（永續所得實驗室）
 - **時間**：2021年-至今
 - **角色**：社群協作激勵師/社群主理人
+- **榮譽**：2024年獲選入駐經濟部中小及新創企業署-社會創新實驗中心-第8屆
 - **影片**：[Youtube](https://www.youtube.com/watch?v=F613YyRHcfA)  
 - **介紹**：[社創組織資料庫](https://si.taiwan.gov.tw/Home/Org?Fid=3278)
 
@@ -28,6 +30,9 @@ tags:
 - **時間**：2016年-2020年
 - **角色**：創始人/總經理
 - **網站及APP**：[網路時光機](https://web.archive.org/web/20191209180642/http://meetugo.com/)
+- 子項目：
+  - [區塊鏈活動社群](https://web.archive.org/web/20190820175500/http://meu.today/)
+  - [涉外房產](https://web.archive.org/web/20200203160134/https://home2live.cn/)
 - **部分活動**：[活動行](https://meetugo.huodongxing.com/)
 - **公司狀態（上海黃尹信息技術有限公司）**[企查查](https://www.qcc.com/creport/526caff2a7166bd3e43403a0e4faba75.html)
   
@@ -58,7 +63,68 @@ tags:
 - **連結**：[Youtube 影片](https://www.youtube.com/watch?v=adQjBooq7UE&t=276s)
 
 ---
+## 內容及線上社群營運
+
+### 115B實驗室（永續所得實驗室）內容及社群營運
+- **時間**：2021年-至今
+- **角色**：內容創作、編輯、社群營運 
+- **文字**：
+  - [2024-至今](https://115b.notion.site/190289418b6a800b9c9bda43e9264996?v=190289418b6a80bfa7e3000c650b4f2a)
+  - [2021-2024](https://sustainable-income-lab.github.io/)
+- **影片**：
+  - [Youtube](https://www.youtube.com/@115B-Lab)
+- **Podcast**：[Podcast](https://podcasts.apple.com/tw/podcast/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4/id1559669595)
+- **社群**
+  - [FB](https://www.facebook.com/sustainable.income.lab/)
+  - [LINE](https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ)
+
+### Histock-心智元美股學院
+- **時間**：2022年
+- **角色**：個人經濟設計講師
+- **連結**：[心智元美股學院](https://histock.tw/school/intro_new.aspx?c=25)   
+
+### 無影不在
+- **時間**：2020年-2021年
+- **角色**：網站建設&創作及編輯
+- **連結**：[無影不在](https://tv-no.com/)
+- **粉專**：[臉書粉專](https://www.facebook.com/tvnocom)
+
+### LearnThings.Online 區塊鏈學習網站
+- **時間**：2021年
+- **角色**：網站建設&創作及編輯
+- **連結**：[LearnThings.Online](https://learnthings.online/)
+
+### 黃舌-短影音
+- **時間**：2020年-2023年
+- **角色**：影片創作者
+- **連結**：
+  -  [抖音（中國境內版）](https://www.douyin.com/user/MS4wLjABAAAAruAOzgrQmGaEfHa0eCZX6qZvBhORbUsFHixYD0hYIZVdN9wycHFeI16aMZBvaHrh)
+  -  [Youtube](https://www.youtube.com/@%E9%BB%83%E8%88%8C)
+
+### 今日頭條-Huanry
+- **時間**：2019年-2023年
+- **角色**：文字/影片創作者
+- **連結**：[今日頭條](https://www.toutiao.com/c/user/token/MS4wLjABAAAAxb2PeEeybsbTuXNy2N1R6JuPr861N8MZvJ9FMioNP90/?tab=all)
+
+### MeetUGo內容及社群營運
+- **時間**：2016年-2020年
+- **角色**：編輯、社群營運 
+- **社群**
+  - [微信-搜狗](https://weixin.sogou.com/weixin?query=MeetUGoCN&type=2&page=1&ie=utf8&p=01030402&dp=1)
+    
+---
 ## 技術  
 ### 網站建設  
 - **部分作品集連結**：[LearnThings](https://ws.learnthings.online/)  
 - **Github**：[SweetVinegar](https://github.com/SweetVinegar)
+
+### SEO
+
+### 廣告投放
+
+---
+## 著作
+### 慣性與重力:時空熱力學
+- **時間**：2010年
+- **角色**：作者
+- **連結**：[臺灣博碩士論文知識加值系統](https://hdl.handle.net/11296/jntwkn)
