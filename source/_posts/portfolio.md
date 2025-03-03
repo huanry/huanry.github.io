@@ -13,9 +13,8 @@ tags:
 ### 021up  
 
 ### 115B實驗室  
-- **影片**：待補  
-- **介紹**：待補  
-
+- **影片**：[Youtube](https://www.youtube.com/watch?v=F613YyRHcfA)  
+- **介紹**：[社創組織資料庫](https://si.taiwan.gov.tw/Home/Org?Fid=3278)
 ---
 
 ## 藝術  
