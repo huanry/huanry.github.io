@@ -52,15 +52,7 @@ tags:
 - **角色**：參展藝術家、演出  
 - **展覽**：《我的臉是公共財》  
 - **連結**：[Instagram](https://www.instagram.com/p/DB1DtClPJn7/?utm_source=ig_web_copy_link)
-- **影片**：
-  - [1](https://m.youtube.com/watch?v=zS3AXFkVB-s)
-  - [2](https://youtu.be/KGdCZzMmF5I)
-  - [3](https://youtu.be/DltW2uJpmzs)
-  - [4](https://youtu.be/37omV72u3AY)
-  - [5](https://youtu.be/rSD0SWRHrTU)
-  - [6](https://youtu.be/7-I52QOYc2w)
-  - [7](https://youtu.be/gGgRsS51D-s)
-  - [8](https://youtu.be/R5PzCnEAoAw?si=ZUJtkvj9r39iV3uI)
+- **影片**：[1](https://m.youtube.com/watch?v=zS3AXFkVB-s)、[2](https://youtu.be/KGdCZzMmF5I)、[3](https://youtu.be/DltW2uJpmzs)、[4](https://youtu.be/37omV72u3AY)、[5](https://youtu.be/rSD0SWRHrTU)、[6](https://youtu.be/7-I52QOYc2w)、[7](https://youtu.be/gGgRsS51D-s)、[8](https://youtu.be/R5PzCnEAoAw?si=ZUJtkvj9r39iV3uI)
 
 ### 作品：王墨林 x 虎斑貓文化工作室《黑色》
 - **時間**：2024年
