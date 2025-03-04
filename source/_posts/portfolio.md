@@ -10,7 +10,11 @@ tags:
 >
 <!--more-->
 
-## 管理  
+## 管理
+
+[![021up_flyer](/img/portfolio
+/021up_flyer.png)](https://021up.org/)
+
 ### 021up
 - **時間**：2024年-至今
 - **角色**：發起人
