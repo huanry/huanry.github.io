@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 date: 2025-03-02 18:00:00
-cover: /img/huanry-2.jpg
+cover: /img/huanry.png
 tags:
 ---
 
