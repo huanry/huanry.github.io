@@ -12,8 +12,7 @@ tags:
 
 ## 管理
 
-![021up_flyer](/img/portfolio
-/021up_flyer.png)
+![021up_flyer](/img/portfolio/021up_flyer.png)
 
 <img src="/img/portfolio
 /021up_flyer.png" style="width: 100%">
