@@ -7,14 +7,14 @@ tags:
 
 # Portfolio 作品集
 
-> **Introduction**  
+> ## **Introduction**  
 >My past experiences are quite diverse. It all started with a five-year entrepreneurial journey in Shanghai, where I founded the cross-border community platform MeetUGo. During this period, I was involved in various roles including management, technology, marketing, and community operations. Over time, I shifted my focus from individual expertise to community management, particularly emphasizing blockchain principles, co-learning, and ecosystem development. This shift allowed me to design activities and manage teams with an ecosystem-building approach, rather than relying on a single professional skill set.
 >
 >In the past five years, I have also led the establishment of the 115B Lab, which continues to focus on building a community ecosystem. Through activities and individual economic participation, we have been pushing forward this concept's development and practice.
 >
 >This portfolio not only highlights my management experiences but also includes attempts in non-work-related fields such as artistic creation, community operation, event organization, IT technology, and marketing technology. These works are still being compiled and reviewed, and I hope they can present my multidimensional experiences and creative philosophy.
-
-> 簡介
+>
+> ## **簡介**
 > 我的過去經歷相當多元，從在上海度過五年的創業旅程開始，期間我創立了針對跨境人群的社群平台 MeetUGo，並涉獵了 管理、技術、行銷及社群營運等多方面的工作。在這段過程中，我逐漸將專注力從個人專業轉向 社群營運，特別是對 區塊鏈精神、共學 和生態系建設的深入關注。這樣的轉變使得後期的活動設計、團隊管理等創作，更多地著眼於整體生態的搭建，而非依賴單一的專業技能。
 >
 > 在近五年的工作中，我也主導建立了115B實驗室，這個實驗室延續了社群生態系建設的理念，並通過活動與個體的 經濟參與 推動這一理念的實踐與發展。
