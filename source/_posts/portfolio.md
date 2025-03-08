@@ -6,13 +6,31 @@ tags:
 ---
 
 # Portfolio 作品集
-> 簡介
+
+> **Introduction**  
+>My past experiences are quite diverse. It all started with a five-year entrepreneurial journey in Shanghai, where I founded the cross-border community platform MeetUGo. During this period, I was involved in various roles including management, technology, marketing, and community operations. Over time, I shifted my focus from individual expertise to community management, particularly emphasizing blockchain principles, co-learning, and ecosystem development. This shift allowed me to design activities and manage teams with an ecosystem-building approach, rather than relying on a single professional skill set.
 >
+>In the past five years, I have also led the establishment of the 115B Lab, which continues to focus on building a community ecosystem. Through activities and individual economic participation, we have been pushing forward this concept's development and practice.
+>
+>This portfolio not only highlights my management experiences but also includes attempts in non-work-related fields such as artistic creation, community operation, event organization, IT technology, and marketing technology. These works are still being compiled and reviewed, and I hope they can present my multidimensional experiences and creative philosophy.
+
+> 簡介
+> 我的過去經歷相當多元，從在上海度過五年的創業旅程開始，期間我創立了針對跨境人群的社群平台 MeetUGo，並涉獵了 管理、技術、行銷及社群營運等多方面的工作。在這段過程中，我逐漸將專注力從個人專業轉向 社群營運，特別是對 區塊鏈精神、共學 和生態系建設的深入關注。這樣的轉變使得後期的活動設計、團隊管理等創作，更多地著眼於整體生態的搭建，而非依賴單一的專業技能。
+>
+> 在近五年的工作中，我也主導建立了115B實驗室，這個實驗室延續了社群生態系建設的理念，並通過活動與個體的 經濟參與 推動這一理念的實踐與發展。
+>
+>在這本作品集中，除了展示我的 管理經歷 外，還融入了不少 非工作領域的嘗試，如 藝術創作、社群營運、活動組織、IT 技術 和 行銷技術的實踐成果。這些作品仍在持續整理與回顧中，期待能呈現出我多維的經歷和創作理念
+
 <!--more-->
 
 ## 管理
 
-### 021up
+### 021UP.Org
+
+021up是我自2024年底發起的社群，旨在為跨境人群打造一個從 0到1 的輔助平台。我們希望透過分散式共同參與、共學，以及經濟參與與投資，協助個人在跨境生活與事業的建立上獲得更多支持。
+
+目前仍處於早期階段，核心工作聚焦於整理跨境族群相關的活動、創業機會、駐村計畫、補助資源等實用資訊，並每週定期分享至各大社群，持續累積影響力與連結更多夥伴。
+
 
 [![021up_flyer](/img/portfolio/021up_flyer.png)](https://021up.org/)
 
@@ -25,6 +43,14 @@ tags:
 
 ### 115B實驗室（永續所得實驗室）
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F613YyRHcfA?si=QnDmhMCcNr7mxsog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+115B 實驗室 是我在 嘉鼎智能團隊 工作期間推動的計畫，致力於打造一個 聚焦「團結再生經濟」的共學與共創社群。我們透過資源盤點、資源活化、參與者生態激勵設計與執行，共同推動團結再生經濟的發展。
+
+在各類活動中，我們秉持 共學與審議式參與的精神，鼓勵成員投入資源、共創共享，讓社群不僅是資訊交流的平台，更成為實踐場域。
+
+作為 社群主理人與社群協作激勵師，我負責社群架構建立、對外合作洽談，以及活動策劃與主持，促進跨界合作與多元參與。
+
+2024 年，115B 實驗室 獲選進駐 經濟部中小及新創企業署—社會創新實驗中心（第 8 屆），進一步擴大影響力，深化我們的實踐行動。
 
 - **時間**：2021年-至今
 - **角色**：社群協作激勵師/社群主理人
@@ -51,6 +77,14 @@ tags:
 ### MeetUGo
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fdig2pin%2Fvideos%2F1908692439410371%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
+MeetUGo 創立於 2016 年，最初於深圳參加創業比賽，隨後轉至上海發展，並於 2018 年正式成立公司。最初，MeetUGo是一款針對跨境人群的社交行程工具，用戶可將感興趣的活動收集至行事曆並分享給好友。
+
+後來，MeetUGo 轉型為上海外籍創業者的活動社群，串聯各大外籍社群，並與當地政府及創投機構合作，舉辦各類 跨境創業路演、黑客松等活動。在這一階段，我們開始推動共學型活動，相較於傳統以講者為核心的模式，我們更強調參與者的貢獻與激勵機制，讓每場活動成為知識與經驗的共同創造場域。
+
+作為創始人，我負責團隊招募與管理、對外合作洽談，並在不同時期主導技術開發、活動策劃與主持。
+
+2020 年疫情後，MeetUGo 停止營運，我隨後加入嘉鼎智能團隊，並推動115B實驗室成立，延續對社群共學與經濟參與的探索。
+
 - **時間**：2016年-2020年
 - **角色**：創始人/總經理
 - **網站及APP**：[網路時光機](https://web.archive.org/web/20191209180642/http://meetugo.com/)
@@ -58,21 +92,13 @@ tags:
   - [區塊鏈活動社群](https://web.archive.org/web/20190820175500/http://meu.today/)
   - [涉外房產](https://web.archive.org/web/20200203160134/https://home2live.cn/)
 - **部分活動**：[活動行](https://meetugo.huodongxing.com/)
+- **照片**：[部分活動照片](https://photos.app.goo.gl/WapLGWXgYrDUREVo8)
 - **公司狀態（上海黃尹信息技術有限公司）**[企查查](https://www.qcc.com/creport/526caff2a7166bd3e43403a0e4faba75.html)
 - **時間**：2016年-2020年
 - **內容及社群營運相關工作**：
   - **角色**：編輯、社群營運 
   - **社群**
     - [微信-搜狗](https://weixin.sogou.com/weixin?query=MeetUGoCN&type=2&page=1&ie=utf8&p=01030402&dp=1)
-  
----
-## 其他活動
-### 115B實驗室（永續所得實驗室）活動
-- **時間**：2021年-至今
-- **角色**：組織者、主持人、講者
-- **連結**：[活動頁面](https://www.accupass.com/organizer/detail/2108230657121565256197)
-- **連結**：[部分活動紀錄](https://sustainable-income-lab.github.io/categories/%E5%85%AC%E6%B0%91%E8%AD%B0%E9%A1%8C%E5%A4%A7%E5%AE%B6%E4%BE%86%E8%A8%8E%E8%AB%96/)
-- **照片**：[部分活動照片 Google Drive](https://drive.google.com/drive/u/0/folders/1TDZ7M2r7cjZqUh-f2a79kNEFe7rgkDql)
 
 ---
 ## 藝術  
@@ -148,13 +174,18 @@ tags:
     
 ---
 ## 技術  
-### 網站建設  
+### 網站建設
+
+在 MeetUGo 創業初期，我曾親自負責技術開發，使用 Node.js 的開源框架 Keystone.js 搭建平台。隨著業務發展，我也運用 WordPress 及其他技術 建立不同功能的網站，以滿足社群與活動的需求。這段經歷不僅強化了我在技術上的實作能力，也讓我在社群運營與產品開發之間取得更好的平衡。
+
 - **部分作品集連結**：[LearnThings](https://ws.learnthings.online/)  
 - **Github**：[SweetVinegar](https://github.com/SweetVinegar)
 
 ### SEO
 
-### 廣告投放
+在回台的疫情期間，我利用 WordPress 建立了多個網站，特別專注於 追劇網站 的開發，並透過SEO優化提升網站曝光與流量。即使在停運三年後，該網站依然維持著每年接近 4000 名活躍用戶，顯示出其穩定的影響力。
+
+此外，於 2021 年，我組織了超過 10 次共學活動，並在各種場合中分享我的 SEO 經驗與實踐，幫助其他創業者與專業人士提升網站的可見度與流量。
 
 ---
 ## 著作
