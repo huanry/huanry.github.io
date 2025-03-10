@@ -223,7 +223,7 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 
 ### Website Development / 網站建設
 
-<div class="col-sm-7 space-bottom-xs"><div class="image-group-side-3-img"> <img decoding="async" class="topimg shadow-large" src="https://res.meetugo.com/wp-content/uploads/sites/7/2020/10/21003318/tv-no.com_iPad.png" alt="" title="tv-no.com_(iPad)" data-pagespeed-url-hash="3686703719" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> <img decoding="async" class="rightimg shadow-large" src="https://res.meetugo.com/wp-content/uploads/sites/7/2020/08/10102602/learnthings.online_iPad.png" alt="" title="learnthings.online_(iPad)" data-pagespeed-url-hash="1630334064" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"><div class="leftimg"> <img decoding="async" class="shadow-large" src="https://res.meetugo.com/wp-content/uploads/sites/7/2020/08/10102302/dig2pin.com_iPad.png" alt="" title="dig2pin.com_(iPad)" data-pagespeed-url-hash="1071500714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></div></div></div>
+![](/img/websites.jpg)
 
 In the early stages of starting MeetUGo, I was responsible for technical development and built the platform using the open-source Node.js framework, Keystone.js. As the business grew, I also utilized WordPress and other technologies to build websites with different functionalities to meet the needs of the community and events. This experience not only strengthened my technical skills but also helped me find a better balance between community operations and product development. 
 
