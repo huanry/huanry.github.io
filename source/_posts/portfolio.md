@@ -223,7 +223,7 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 
 ### Website Development / 網站建設
 
-![](/img/websites.jpg)
+![](/img/portfolio/websites.jpg)
 
 In the early stages of starting MeetUGo, I was responsible for technical development and built the platform using the open-source Node.js framework, Keystone.js. As the business grew, I also utilized WordPress and other technologies to build websites with different functionalities to meet the needs of the community and events. This experience not only strengthened my technical skills but also helped me find a better balance between community operations and product development. 
 
@@ -233,6 +233,7 @@ In the early stages of starting MeetUGo, I was responsible for technical develop
 - Github：[SweetVinegar](https://github.com/SweetVinegar)  
 
 ### SEO / 搜尋引擎優化  
+
 During the pandemic when I returned to Taiwan, I created multiple websites using WordPress, focusing particularly on developing a drama-watching website. I utilized SEO optimization to increase the website's exposure and traffic. Even after being inactive for three years, the website still maintained nearly 4,000 active users each year, demonstrating its stable influence.  
 
 Additionally, in 2021, I organized more than 10 co-learning events and shared my SEO experience and practices at various occasions, helping other entrepreneurs and professionals improve the visibility and traffic of their websites.  
