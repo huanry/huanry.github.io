@@ -189,15 +189,15 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 ---
 ## Other Content and Online Community Operations / 其它內容及線上社群營運  
 
-### Histock - HeartMind US Stock Academy / Histock-心智元美股學院  
+### Histock - HAPPY US Stock Academy / Histock-心智元美股學院  
 - Time/時間: 2022  
 - Role/角色: Personal Economic Design Lecturer / 個人經濟設計講師  
-- Link/連結: [HeartMind US Stock Academy](https://histock.tw/school/intro_new.aspx?c=25)  
+- Link/連結: [HAPPY US Stock Academy](https://histock.tw/school/intro_new.aspx?c=25)  
 
-### No Shadow, No Existence / 無影不在  
+### TV-No/ 無影不在  
 - Time/時間: 2020-2021  
 - Role/角色: Website Construction & Creation, Editing / 網站建設&創作及編輯  
-- Link/連結: [No Shadow, No Existence](https://tv-no.com/)  
+- Link/連結: [TV-No](https://tv-no.com/)  
 - Facebook Page/粉專: [Facebook Fan Page](https://www.facebook.com/tvnocom)  
 
 ### LearnThings.Online Blockchain Learning Website / LearnThings.Online 區塊鏈學習網站  
@@ -217,20 +217,17 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 - Role/角色: Writer / Video Creator / 文字/影片創作者  
 - Link/連結: [Toutiao / 今日頭條](https://www.toutiao.com/c/user/token/MS4wLjABAAAAxb2PeEeybsbTuXNy2N1R6JuPr861N8MZvJ9FMioNP90/?tab=all)  
 
-### MeetUGo Content and Community Operations / MeetUGo內容及社群營運  
-- Time/時間: 2016-2020  
-- Role/角色: Editor, Community Operations / 編輯、社群營運  
-- Community/社群:  
-  - [WeChat - Sogou](https://weixin.sogou.com/weixin?query=MeetUGoCN&type=2&page=1&ie=utf8&p=01030402&dp=1)
 
 ---
 ## Technology / 技術  
 
-### Website Development / 網站建設  
+### Website Development / 網站建設
+
+<div class="col-sm-7 space-bottom-xs"><div class="image-group-side-3-img"> <img decoding="async" class="topimg shadow-large" src="https://res.meetugo.com/wp-content/uploads/sites/7/2020/10/21003318/tv-no.com_iPad.png" alt="" title="tv-no.com_(iPad)" data-pagespeed-url-hash="3686703719" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"> <img decoding="async" class="rightimg shadow-large" src="https://res.meetugo.com/wp-content/uploads/sites/7/2020/08/10102602/learnthings.online_iPad.png" alt="" title="learnthings.online_(iPad)" data-pagespeed-url-hash="1630334064" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"><div class="leftimg"> <img decoding="async" class="shadow-large" src="https://res.meetugo.com/wp-content/uploads/sites/7/2020/08/10102302/dig2pin.com_iPad.png" alt="" title="dig2pin.com_(iPad)" data-pagespeed-url-hash="1071500714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></div></div></div>
 
 In the early stages of starting MeetUGo, I was responsible for technical development and built the platform using the open-source Node.js framework, Keystone.js. As the business grew, I also utilized WordPress and other technologies to build websites with different functionalities to meet the needs of the community and events. This experience not only strengthened my technical skills but also helped me find a better balance between community operations and product development. 
 
-在 MeetUGo 創業初期，我曾親自負責技術開發，使用 Node.js 的開源框架 Keystone.js 搭建平台。隨著業務發展，我也運用 WordPress 及其他技術建立不同功能的網站，以滿足社群與活動的需求。這段經歷不僅強化了我在技術上的實作能力，也讓我在社群運營與產品開發之間取得更好的平衡。  
+在 MeetUGo 創業初期，我曾親自負責技術開發，使用 Node.js 的開源框架 Keystone.js 搭建平台。隨著業務發展，我也運用 WordPress 及其他技術建立不同功能的網站，以滿足社群與活動的需求。這段經歷不僅強化了我在技術上的實作能力，也讓我在社群運營與產品開發之間取得更好的平衡。
 
 - Selected Works / 部分作品集連結：[LearnThings](https://ws.learnthings.online/)  
 - Github：[SweetVinegar](https://github.com/SweetVinegar)  
