@@ -89,7 +89,15 @@ In 2024, 115B Lab was selected to join the 8th Cohort of the Social Innovation L
   - Podcast：[Apple Podcast](https://podcasts.apple.com/tw/podcast/%E6%B0%B8%E7%BA%8C%E6%89%80%E5%BE%97%E5%AF%A6%E9%A9%97%E5%AE%A4/id1559669595)  
   - Community/社群
     - [Facebook (FB)](https://www.facebook.com/sustainable.income.lab/)  
-    - [LINE](https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ)  
+    - [LINE](https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ)
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="/img/portfolio/events/活動松.png" width="200">
+  <img src="/img/portfolio/events/OST.jpg" width="200">
+  <img src="/img/portfolio/events/一人一菜共煮.jpg" width="200">
+  <img src="/img/portfolio/events/開放辦公.jpg" width="200">
+  <img src="/img/portfolio/events/公民議題大家來討論.jpg" width="200">
+</div>
 
 ### MeetUGo
 
