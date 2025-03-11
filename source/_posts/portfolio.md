@@ -27,6 +27,8 @@ tags:
 
 ### 021UP.Org
 
+[![021up_flyer](/img/portfolio/021up_flyer.png)](https://021up.org/)
+
 021up is a community I initiated at the end of 2024, aiming to create a support platform for cross-border individuals from 0 to 1. Through decentralized participation, collaborative learning, and economic engagement and investment, we seek to help individuals gain more support in establishing their cross-border lives and careers.
 
 Currently, we are still in the early stages, with a core focus on curating practical information related to cross-border communities, such as events, entrepreneurial opportunities, residency programs, and funding resources. We share these insights weekly across major communities, continuously expanding our influence and connecting with more partners.
@@ -34,8 +36,6 @@ Currently, we are still in the early stages, with a core focus on curating pract
 021up是我自2024年底發起的社群，旨在為跨境人群打造一個從 0到1 的輔助平台。我們希望透過分散式共同參與、共學，以及經濟參與與投資，協助個人在跨境生活與事業的建立上獲得更多支持。
 
 目前仍處於早期階段，核心工作聚焦於整理跨境族群相關的活動、創業機會、駐村計畫、補助資源等實用資訊，並每週定期分享至各大社群，持續累積影響力與連結更多夥伴。
-
-[![021up_flyer](/img/portfolio/021up_flyer.png)](https://021up.org/)
 
 - Time/時間：2024 – Present / 2024年-至今  
 - Role/角色：Founder / 發起人  
@@ -90,14 +90,6 @@ In 2024, 115B Lab was selected to join the 8th Cohort of the Social Innovation L
   - Community/社群
     - [Facebook (FB)](https://www.facebook.com/sustainable.income.lab/)  
     - [LINE](https://line.me/ti/g2/Yn9r9XlbjJjhjppxjyzmbQ)
-
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="/img/portfolio/events/活動松.png" width="200">
-  <img src="/img/portfolio/events/OST.jpg" width="200">
-  <img src="/img/portfolio/events/一人一菜共煮.jpg" width="200">
-  <img src="/img/portfolio/events/開放辦公.jpg" width="200">
-  <img src="/img/portfolio/events/公民議題大家來討論.jpg" width="200">
-</div>
 
 ### MeetUGo
 
