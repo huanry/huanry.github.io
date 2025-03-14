@@ -48,6 +48,8 @@ Currently, we are still in the early stages, with a core focus on curating pract
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F613YyRHcfA?si=QnDmhMCcNr7mxsog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+![](/img/portfolio/events/115B_events.jpg)
+
 115B Lab is a project I initiated while working with the Magnific Intelligence Collective team, dedicated to building a co-learning and co-creation community focused on the Solidarity Regenerative Economy.
 
 We promote the development of a Solidarity Regenerative Economy through resource mapping, resource activation, and the design and execution of participant-driven ecosystem incentives.  
@@ -94,6 +96,8 @@ In 2024, 115B Lab was selected to join the 8th Cohort of the Social Innovation L
 ### MeetUGo
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fdig2pin%2Fvideos%2F1908692439410371%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+![](/img/portfolio/events/meetugo_events.jpg)
 
 Founded in 2016, MeetUGo started as a startup competition project in Shenzhen before moving to Shanghai, where it officially became a company in 2018. Initially, MeetUGo was a social itinerary tool for cross-border users, allowing them to collect events of interest into a calendar and share them with friends.  
 
