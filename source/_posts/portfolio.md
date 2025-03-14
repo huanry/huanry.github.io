@@ -246,6 +246,8 @@ Additionally, in 2021, I organized more than 10 co-learning events and shared my
 
 此外，於 2021 年，我組織了超過 10 次共學活動，並在各種場合中分享我的 SEO 經驗與實踐，幫助其他創業者與專業人士提升網站的可見度與流量。
 
+- [SEO 入門分享](https://drive.google.com/drive/folders/1-2kXNagpJacBOtYSbVgznBBtZWMFe1JY?usp=sharing)
+
 ---
 ## Publications / 著作  
 
