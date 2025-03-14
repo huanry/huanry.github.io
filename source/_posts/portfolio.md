@@ -238,6 +238,8 @@ In the early stages of starting MeetUGo, I was responsible for technical develop
 
 ### SEO / 搜尋引擎優化  
 
+![](/img/portfolio/events/event-seo.jpg)
+
 During the pandemic when I returned to Taiwan, I created multiple websites using WordPress, focusing particularly on developing a drama-watching website. I utilized SEO optimization to increase the website's exposure and traffic. Even after being inactive for three years, the website still maintained nearly 4,000 active users each year, demonstrating its stable influence.  
 
 Additionally, in 2021, I organized more than 10 co-learning events and shared my SEO experience and practices at various occasions, helping other entrepreneurs and professionals improve the visibility and traffic of their websites.  
@@ -246,7 +248,7 @@ Additionally, in 2021, I organized more than 10 co-learning events and shared my
 
 此外，於 2021 年，我組織了超過 10 次共學活動，並在各種場合中分享我的 SEO 經驗與實踐，幫助其他創業者與專業人士提升網站的可見度與流量。
 
-- [SEO 入門分享](https://drive.google.com/drive/folders/1-2kXNagpJacBOtYSbVgznBBtZWMFe1JY?usp=sharing)
+- [SEO co-learning](https://drive.google.com/drive/folders/1-2kXNagpJacBOtYSbVgznBBtZWMFe1JY?usp=sharing)
 
 ---
 ## Publications / 著作  
