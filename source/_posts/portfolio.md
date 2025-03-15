@@ -195,6 +195,10 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 
 ![](/img/portfolio/content/HAPPY.jpg)
 
+This is a project I participated in with the Jading Smart team, where I was primarily responsible for delivering and sharing insights on economic topics.
+
+這是我在嘉鼎智能團隊參與的項目，主要負責經濟議題相關課程的講解與分享。
+
 ### Histock - HAPPY US Stock Academy / Histock-心智元美股學院  
 - Time/時間: 2022  
 - Role/角色: Personal Economic Design Lecturer / 個人經濟設計講師  
@@ -203,6 +207,10 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 ### TV-No/ 無影不在
 
 ![](/img/portfolio/content/tvno.jpg)
+
+This is a streaming website I built during the pandemic, independently set up using WordPress, where I applied SEO and other digital marketing techniques. Even after three years of inactivity, the site still maintains nearly 4,000 active users annually and has organically gained over 4,000 Facebook followers.
+
+這是我在疫情期間打造的追劇網站，獨立使用 WordPress 架設，並透過該網站實踐 SEO 等技術。即使停運三年後，網站仍維持每年近 4000 名活躍用戶，並自然累積超過 4000 名 Facebook 粉絲關注。
 
 - Time/時間: 2020-2021  
 - Role/角色: Website Construction & Creation, Editing / 網站建設&創作及編輯  
@@ -213,11 +221,19 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 
 ![](/img/portfolio/content/lto.jpg)
 
+This is a blockchain learning website I developed during the pandemic, primarily in English, relying entirely on SEO to connect with users from India and the United States.
+
+這是我在疫情期間開發的區塊鏈學習網站，以英文為主要語言，並完全依靠 SEO 吸引來自印度和美國的用戶。
+
 - Time/時間: 2021  
 - Role/角色: Website Construction & Creation, Editing / 網站建設&創作及編輯  
 - Link/連結: [LearnThings.Online](https://learnthings.online/)  
 
 ### Huang Sir - Short Videos / 黃舌-短影音
+
+This is a food and lifestyle video channel I managed while in Shanghai.
+
+這是我在上海期間經營的飲食與生活主題影片頻道。
 
 ![](/img/portfolio/content/huangsir.jpg)
 
@@ -230,6 +246,10 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 ### Toutiao - Huanry / 今日頭條-Huanry
 
 ![](/img/portfolio/content/toutiao.jpg)
+
+This is a lifestyle and travel media platform I managed while in Shanghai.
+
+這是我在上海期間經營的生活與旅遊主題文字媒體。
 
 - Time/時間: 2019-2023  
 - Role/角色: Writer / Video Creator / 文字/影片創作者  
