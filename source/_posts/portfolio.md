@@ -193,30 +193,44 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 ---
 ## Other Content and Online Community Operations / 其它內容及線上社群營運  
 
+![](/img/portfolio/content/HAPPY.jpg)
+
 ### Histock - HAPPY US Stock Academy / Histock-心智元美股學院  
 - Time/時間: 2022  
 - Role/角色: Personal Economic Design Lecturer / 個人經濟設計講師  
 - Link/連結: [HAPPY US Stock Academy](https://histock.tw/school/intro_new.aspx?c=25)  
 
-### TV-No/ 無影不在  
+### TV-No/ 無影不在
+
+![](/img/portfolio/content/tvno.jpg)
+
 - Time/時間: 2020-2021  
 - Role/角色: Website Construction & Creation, Editing / 網站建設&創作及編輯  
 - Link/連結: [TV-No](https://tv-no.com/)  
 - Facebook Page/粉專: [Facebook Fan Page](https://www.facebook.com/tvnocom)  
 
-### LearnThings.Online Blockchain Learning Website / LearnThings.Online 區塊鏈學習網站  
+### LearnThings.Online Blockchain Learning Website / LearnThings.Online 區塊鏈學習網站
+
+![](/img/portfolio/content/lto.jpg)
+
 - Time/時間: 2021  
 - Role/角色: Website Construction & Creation, Editing / 網站建設&創作及編輯  
 - Link/連結: [LearnThings.Online](https://learnthings.online/)  
 
-### Huang Sir - Short Videos / 黃舌-短影音  
+### Huang Sir - Short Videos / 黃舌-短影音
+
+![](/img/portfolio/content/huangsir.jpg)
+
 - Time/時間: 2020-2023  
 - Role/角色: Video Creator / 影片創作者  
 - Link/連結:  
   - [Douyin (China Version)](https://www.douyin.com/user/MS4wLjABAAAAruAOzgrQmGaEfHa0eCZX6qZvBhORbUsFHixYD0hYIZVdN9wycHFeI16aMZBvaHrh)  
   - [Youtube](https://www.youtube.com/@%E9%BB%83%E8%88%8C)  
 
-### Toutiao - Huanry / 今日頭條-Huanry  
+### Toutiao - Huanry / 今日頭條-Huanry
+
+![](/img/portfolio/content/toutiao.jpg)
+
 - Time/時間: 2019-2023  
 - Role/角色: Writer / Video Creator / 文字/影片創作者  
 - Link/連結: [Toutiao / 今日頭條](https://www.toutiao.com/c/user/token/MS4wLjABAAAAxb2PeEeybsbTuXNy2N1R6JuPr861N8MZvJ9FMioNP90/?tab=all)  
