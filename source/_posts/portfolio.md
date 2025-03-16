@@ -1,24 +1,26 @@
 ---
-title: Portfolio
+title: Portfolio 作品集
 date: 2025-03-02 18:00:00
 cover: /img/huanry.png
 tags:
 ---
 
-# Portfolio 作品集
+<!--more-->
 
+# Portfolio 作品集
 
 ## 目錄
 
-- [## 目錄](#目錄)
-> - [Introduction 簡介](#Introduction-簡介)
-> - [Management 管理](#Management-管理)
-> - [Art 藝術](#Art-藝術)
-> - [Other Content and Online Community Operations 其它內容及線上社群營運 ](#Other-Content-and-Online-Community-Operations-其它內容及線上社群營運 )
-> - [Technology 技術 ](#Technology-技術)
-> - [Publications 著作 ](#Publications-著作 )
+> - [👉 目錄](#目錄)
+> - [👉 Introduction 簡介](#Introduction-簡介)
+> - [👉 Management 管理](#Management-管理)
+> - [👉 Art 藝術](#Art-藝術)
+> - [👉 Other Content and Online Community Operations 其它內容及線上社群營運 ](#Other-Content-and-Online-Community-Operations-其它內容及線上社群營運 )
+> - [👉 Technology 技術 ](#Technology-技術)
+> - [👉 Publications 著作 ](#Publications-著作 )
 
-> ## **Introduction 簡介**  
+
+> ##  <center>**Introduction 簡介**</center>
 >My past experiences are quite diverse. It all started with a five-year entrepreneurial journey in Shanghai, where I founded the cross-border community platform MeetUGo. During this period, I was involved in various roles including management, technology, marketing, and community operations. Over time, I shifted my focus from individual expertise to community management, particularly emphasizing blockchain principles, co-learning, and ecosystem development. This shift allowed me to design activities and manage teams with an ecosystem-building approach, rather than relying on a single professional skill set.
 >
 >In the past five years, I have also led the establishment of the 115B Lab, which continues to focus on building a community ecosystem. Through activities and individual economic participation, we have been pushing forward this concept's development and practice.
@@ -31,10 +33,8 @@ tags:
 >
 >在這本作品集中，除了展示我的 管理經歷 外，還融入了不少 非工作領域的嘗試，如 藝術創作、社群營運、活動組織、IT 技術 和 行銷技術的實踐成果。這些作品仍在持續整理與回顧中，期待能呈現出我多維的經歷和創作理念。
 
-<!--more-->
-
 ---
-## Management 管理
+> ##  <center>**Management 管理**</center>
 
 ### 021UP.Org
 
@@ -145,7 +145,7 @@ MeetUGo 創立於 2016 年，最初於深圳參加創業比賽，隨後轉至上
     - [WeChat - Sogou 微信-搜狗](https://weixin.sogou.com/weixin?query=MeetUGoCN&type=2&page=1&ie=utf8&p=01030402&dp=1)  
 
 ---
-## Art 藝術
+> ##  <center>Art 藝術</center>
 
 ### Work 作品:"When Others Describe My Body, The Voice Inside My Head Is..." 《當別人形容我的身材，我內心的聲音是…》
 
@@ -202,7 +202,9 @@ In this work, I tie multiple ropes around myself and invite the audience to lead
 - Link/連結: [Youtube Video](https://www.youtube.com/watch?v=adQjBooq7UE&t=276s)
 
 ---
-## Other Content and Online Community Operations 其它內容及線上社群營運  
+> ##  <center>Other Content and Online Community Operations 其它內容及線上社群營運</center> 
+
+### Histock - HAPPY US Stock Academy / Histock-心智元美股學院  
 
 ![](/img/portfolio/content/HAPPY.jpg)
 
@@ -210,7 +212,6 @@ This is a project I participated in with the Jading Smart team, where I was prim
 
 這是我在嘉鼎智能團隊參與的項目，主要負責經濟議題相關課程的講解與分享。
 
-### Histock - HAPPY US Stock Academy / Histock-心智元美股學院  
 - Time/時間: 2022  
 - Role/角色: Personal Economic Design Lecturer / 個人經濟設計講師  
 - Link/連結: [HAPPY US Stock Academy](https://histock.tw/school/intro_new.aspx?c=25)  
@@ -268,7 +269,7 @@ This is a lifestyle and travel media platform I managed while in Shanghai.
 
 
 ---
-## Technology 技術  
+> ##  <center>Technology 技術</center> 
 
 ### Website Development 網站建設
 
@@ -296,7 +297,11 @@ Additionally, in 2021, I organized more than 10 co-learning events and shared my
 - [SEO co-learning](https://drive.google.com/drive/folders/1-2kXNagpJacBOtYSbVgznBBtZWMFe1JY?usp=sharing)
 
 ---
-## Publications 著作  
+> ##  <center>Publications 著作</center>  
+
+This is my thesis from the master's program in physics at National Taiwan University, exploring Erik Verlinde's conjectures on the origins of inertia and gravity. In my research, I discovered that the two assumptions proposed by Verlinde can actually be reduced to one, with the second assumption being derivable from the first. Specifically, the "linear relation between particle displacement and mass" mentioned in Verlinde's paper was independently assumed, whereas in my work, I demonstrate that this relation can be derived from the first assumption. First, we introduce the entropy-area law and equipartition rule for stationary black hole horizons, generalizing them to derive the equations for gravity. Then, we study the gravitational effects on a particle in an accelerating frame and derive the linear relation between displacement and mass, which is related to the concept of inertia. Through thermodynamic equilibrium analysis, we derive Newton's second law of motion and explain the equivalence between inertial mass and gravitational mass. Finally, we discuss unsolved problems and unexplored areas in the field of entropic gravity.
+
+這是我在台大物理碩士班的論文，探討Erik Verlinde提出的慣性和引力起源的猜想。在我的研究中，我發現Erik Verlinde所設定的兩個假設，其實可以縮減為一個，另一個可以由第一個推導出來。特別是，Verlinde文章中提到的『粒子位移與質量之間的線性關係』是被獨立假設的，而我在論文中證明這個關係可以由第一個假設推導出來。首先，我們介紹了靜止黑洞視界的熵-面積定律和能量均分規則，並將其推廣至任意靜止視界以推導引力方程。接著，研究了加速參考系中粒子的引力效應，並推導出粒子位移與質量之間的線性關係，這與慣性概念相關。通過熱平衡分析，我們得出了牛頓第二運動定律，並解釋了慣性質量與引力質量的等價性。最後，討論了熵引力領域中的未解問題。
 
 ### Inertia and Gravity: Thermodynamics of Spacetime / 慣性與重力:時空熱力學  
 - Year/時間：2010/2010年 
