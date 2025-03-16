@@ -142,3 +142,20 @@ I'm Huanry from Taiwan, worked with fintech & social media startups in the past 
 希望結合數位技能、社群經營與社會創新，在全球不同地點連結志同道合的創新者，透過遠端協作與數位工具，推動更多具有影響力的專案與社群發展。
 
 ---
+
+## 整理資料
+
+- [思辨之夜](https://www.youtube.com/watch?v=T9K5J8c_DE4)
+- [思辨之夜](https://www.youtube.com/watch?v=vpVJ49onI_I)
+
+- [Dora Hathon](https://www.youtube.com/watch?v=sFp3aSal-Q8)
+
+- [桐花松提案](https://www.youtube.com/watch?v=YgSBulExC9Q)
+
+- [桐花松提案小結](https://www.youtube.com/watch?v=NhhUsUpEmVs)
+
+- [永續贊助計劃](https://www.youtube.com/watch?v=8Na9AoEAShA)
+
+- [永續所得](https://www.youtube.com/watch?v=wfxOZ9pm1qE)
+
+- [我家是機場預定地｜培訓工作坊】議題式遊戲主持入門](https://www.tahr.org.tw/event/3314)
