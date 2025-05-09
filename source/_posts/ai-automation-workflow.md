@@ -8,6 +8,10 @@ tags:
 - 自動化
 - 行銷
 - 社群營運
+- n8n
+- Vibe Coding
+- RAG
+- LLM
 cover: https://images.unsplash.com/photo-1677442135136-760c813028c0?q=80&w=1932&auto=format&fit=crop
 ---
 
