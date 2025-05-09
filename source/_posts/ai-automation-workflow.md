@@ -1,8 +1,13 @@
 ---
-title: 非技術人員的 AI 超能力養成計劃
+title: 非技術人員的 AI 超能力養成計劃 - n8n/Vibe Coding
 author: Huanry
 date: 2025-05-09 14:30:00
-tags: 科技, AI, 自動化, 行銷, 社群營運
+tags:
+- 科技
+- AI
+- 自動化
+- 行銷
+- 社群營運
 cover: https://images.unsplash.com/photo-1677442135136-760c813028c0?q=80&w=1932&auto=format&fit=crop
 ---
 
