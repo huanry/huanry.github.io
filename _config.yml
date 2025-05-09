@@ -30,7 +30,7 @@ code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 - [README.md]
-- googlec3ce5c756976f674.html
+- [googlec3ce5c756976f674.html]
 
 # Writing
 new_post_name: :title.md # File name of new posts
