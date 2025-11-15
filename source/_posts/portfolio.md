@@ -226,7 +226,7 @@ This is a streaming website I built during the pandemic, independently set up us
 
 - Time/時間: 2020-2021  
 - Role/角色: Website Construction & Creation, Editing / 網站建設&創作及編輯  
-- Link/連結: [TV-No](https://tv-no.com/)  
+- Link/連結: [TV-No](https://web.archive.org/web/20250321191521/https://tv-no.com/)  
 - Facebook Page/粉專: [Facebook Fan Page](https://www.facebook.com/tvnocom)  
 
 ### LearnThings.Online Blockchain Learning Website 區塊鏈學習網站
@@ -239,7 +239,7 @@ This is a blockchain learning website I developed during the pandemic, primarily
 
 - Time/時間: 2021  
 - Role/角色: Website Construction & Creation, Editing / 網站建設&創作及編輯  
-- Link/連結: [LearnThings.Online](https://learnthings.online/)  
+- Link/連結: [LearnThings.Online]([https://learnthings.online/](https://web.archive.org/web/20250425094103/https://learnthings.online/))  
 
 ### Huang Sir（Short Videos ） 黃舌（短影音）
 
@@ -275,12 +275,9 @@ This is a lifestyle and travel media platform I managed while in Shanghai.
 
 ![](https://ithelp.ithome.com.tw/upload/images/20250913/20178495DAgA91v52l.png)
 
-**中文｜Chinese**
-
 Since mid-2025, I’ve been working with n8n to streamline community operations. My automations cover web data scraping, weekly community report generation, social media content scheduling and publishing, and digital business-card management workflows.
 
 In 2025, I also joined the **iThome Ironman Challenge**, completing a 30-day series titled *“30 Days of Generative-AI Workflows: Practical Automation for Community Managers”* to document real n8n use cases in community management.
-
 
 我自 2025 年年中開始學習與使用 n8n，主要應用在社群管理工作。常見的自動化場景包含：網站資料爬取、社群週報生成、貼文排程與發佈、個人名片管理工具等。
 
