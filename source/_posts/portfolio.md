@@ -269,7 +269,24 @@ This is a lifestyle and travel media platform I managed while in Shanghai.
 
 
 ---
-> ##  <center>Technology 技術</center> 
+> ##  <center>Technology 技術</center>
+
+### Community Automation 社群自動化（n8n）  
+
+![](https://ithelp.ithome.com.tw/upload/images/20250913/20178495DAgA91v52l.png)
+
+**中文｜Chinese**
+
+Since mid-2025, I’ve been working with n8n to streamline community operations. My automations cover web data scraping, weekly community report generation, social media content scheduling and publishing, and digital business-card management workflows.
+
+In 2025, I also joined the **iThome Ironman Challenge**, completing a 30-day series titled *“30 Days of Generative-AI Workflows: Practical Automation for Community Managers”* to document real n8n use cases in community management.
+
+
+我自 2025 年年中開始學習與使用 n8n，主要應用在社群管理工作。常見的自動化場景包含：網站資料爬取、社群週報生成、貼文排程與發佈、個人名片管理工具等。
+
+同年，我以「30 天生成式 AI 工作流：社群經營者的自動化實戰」參加 **2025 iThome 鐵人賽**，以 30 天連續分享的方式紀錄 n8n 在社群經營中的實際應用，成功完賽。
+
+- [30 Days of Generative-AI Workflows: Practical Automation for Community Managers｜2025 iThome Ironman / 30 天生成式 AI 工作流：社群經營者的自動化實戰｜2025 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20178495/ironman/8470)
 
 ### Website Development 網站建設
 
